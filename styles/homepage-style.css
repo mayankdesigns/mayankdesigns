@@ -958,6 +958,7 @@ button {
   font-size: 18px;
   line-height: 24px;
   color: #777;
+  margin-top: 10px;
   font-weight: 200; }
   .small-description .description-hyperlink {
     color: #777; }
